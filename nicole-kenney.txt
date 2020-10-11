@@ -1,0 +1,29 @@
+**All of these answers are my original answers from a former project!**
+
+Q1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+
+A1. HTML is a hyper-text markup language created in the 90's to build the basic structure/foundation of the 'house'/site.
+
+
+
+Q2. Name two big differences between display:block; and display:inline; ..
+
+A2. Display:inline will allow elements to only take up the space they need "in line" (not starting a new row) but will not take a width or height. Display:block will allow elements to take a width and height but they will take up the entire row, creating a new line.
+
+
+
+Q3. What are the 4 areas of the box model?
+
+A3. From inside out: content, padding, border, margin.
+
+
+
+Q4. While using flexbox, what axis does the following property work on: align-items:center?
+
+A4. The cross (vertical) axis.
+
+
+
+Q5. Explain why git is valuable to a team of developers.. 
+
+A5. Git is a Version Control System that allows various versions of code to be tracked and stored. Creating branches of main projects are also possible. This could be valuable to a team of developers to both break down goals of the main project to memebers of the team where each can make changes individually without impacting the main hub until changes are approved and they can also have access to all saved versions of the project so older versions of the code can be retrieved it needed.
